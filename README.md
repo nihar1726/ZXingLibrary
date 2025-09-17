@@ -164,7 +164,6 @@ Contributions are welcome!
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-Would you like me to create **placeholder screenshots** or a sample **LICENSE file** for you?
+
 
