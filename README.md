@@ -123,13 +123,6 @@ Add the camera permission in `AndroidManifest.xml`:
 
 ---
 
-## 📸 Screenshots *(Optional)*
-
-| Activity Scanner                                 | Fragment Scanner                                 |
-| ------------------------------------------------ | ------------------------------------------------ |
-| ![Activity Screenshot](screenshots/activity.png) | ![Fragment Screenshot](screenshots/fragment.png) |
-
----
 
 ## 📌 Best Practices
 
@@ -163,6 +156,7 @@ Contributions are welcome!
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
 
 
