@@ -1,6 +1,3 @@
-Here's a **detailed README** you can use for your QR Code Scanner project:
-
----
 
 # 📱 Android QR Code Scanner App (ZXing Library in Kotlin)
 
@@ -170,3 +167,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Would you like me to create **placeholder screenshots** or a sample **LICENSE file** for you?
+
