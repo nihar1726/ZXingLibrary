@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">ZXingLibrary</string>
-    <string name="app_name">ZXingLibrary</string>
     <string name="helper_activity">HelperActivity</string>
     <string name="showing_code_in_fragment">Showing Code in Fragment</string>
     <string name="scan_qr_code">SCAN QR CODE</string>
